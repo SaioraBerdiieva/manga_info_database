@@ -1,16 +1,41 @@
-<<<<<<< HEAD
-# React + Vite
+# Manga Info Website - A Comprehensive Manga Database
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This comprehensive project allows users to explore their favorite manga titles, discover new series, and dive into detailed information including genres, chapters, publication status. With data fetched from a robust external API, this site presents an extensive collection of manga, making it a go-to resource for manga enthusiasts.
 
+Built with modern web technologies, the Manga Info Website offers a seamless, engaging user experience that makes exploring manga an immersive and enjoyable activity. Whether you're new to manga or a long-time fan, this project provides a rich, interactive database to enhance your manga discovery.
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots
+1. __Start page__
+   ![Alt text Start Page](src/projIllustration/main_page)
+2. __Searching__ 
+![Alt text Searching](src/projIllustration/search.png)
+3. __Manga information page__ 
+![Alt text Manga info page](src/projIllustration/MangaInfo.png)
+4. __Characters gallery__ 
+![Alt text Manga info page](src/projIllustration/characterGallery.png)
+=======
 
-## Expanding the ESLint configuration
+## Key Features
+    * __Search Functionality__: Quickly search for manga titles, genres, and authors.
+    * __In-Depth Manga Informatio__n: View detailed information about any manga, including the description, genre, number of chapters, status (Ongoing/Completed), and author details.
+    * __Recommendations__: Based on your search, the app suggests related manga series you might enjoy.
+    * __Responsive and Mobile-Friendly Design__: Ensures the site is usable and visually appealing across all devices.
+    * __API Integration__: Utilizes an external manga API to fetch up-to-date data.
+    * __Rich Database__: Covers a vast collection of manga from different genres and time periods, providing an extensive resource for manga fans.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Usage
+Upon running the app, users can search for their favorite manga by title. The site will then display relevant manga entries with the following detailed information:
+
+Manga Title
+Manga Description
+Genre(s)
+Release Date
+Number of Chapters
+Status (Ongoing/Completed)
+Author Information
+Characters Information
+
 =======
 # manga_info_database
 The Manga Info Website is a large-scale, dynamic web application designed to provide detailed, real-time information about a vast range of manga series. 
