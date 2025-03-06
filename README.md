@@ -18,8 +18,7 @@ Currently, two official plugins are available:
 
 ## Key Features
     * __Search Functionality__: Quickly search for manga titles, genres, and authors.
-    * __In-Depth Manga Informatio__n: View detailed information about any manga, including the description, genre, number of chapters, status (Ongoing/Completed), and author details.
-    * __Recommendations__: Based on your search, the app suggests related manga series you might enjoy.
+    * __In-Depth Manga Informatio__n: View detailed information about any manga, including the description, genre, number of chapters, status (Ongoing/Completed).
     * __Responsive and Mobile-Friendly Design__: Ensures the site is usable and visually appealing across all devices.
     * __API Integration__: Utilizes an external manga API to fetch up-to-date data.
     * __Rich Database__: Covers a vast collection of manga from different genres and time periods, providing an extensive resource for manga fans.
